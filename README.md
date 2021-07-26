@@ -12,4 +12,3 @@ Hooks used - useState, useEffect, and useRef.
     2. Search - use Wikipedia API to get the results.
     3. Dropdown - dynamic dropdown controlled with React Hooks.
     4. Translate - use Google API to translate the language.
-
